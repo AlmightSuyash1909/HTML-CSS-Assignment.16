@@ -1,2 +1,2 @@
-# Positioning Content = Assignment.2 
+# Positioning Content - Assignment.2 
 Gallery Layout
